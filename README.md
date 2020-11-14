@@ -32,7 +32,7 @@ I'm currently looking for an internship or an opportunity !
 * Securing forms
 * Use of a Github workflow
 
-#### Fictitious project : a CV for Hackerman
+#### Fictitious project : [a CV for Hackerman](https://github.com/wild-e/Project-1--Les-Nous- "Hackerman's CV)
 * Pages made out of HTML and CSS
 * Implementation of vanilla JS 
 * Initiation to github
