@@ -14,6 +14,15 @@ wild.emmanuelle@gmail.com
 Hi ! I'm **Emmanuelle**. After 8 years as a caregiver, I decided to take a fresh start. Now, I'm a _Wilder_ on remote bootcamp at Strasbourg's [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/strasbourg "Strasbourg Wild Code School HomePage"), craving to become a web developper: the sooner the better.
 I'm currently looking for an internship or an opportunity !
 
+### Skills
+| Hard skills | Soft skills |
+|-------------|-------------|
+| PHP         | Team  work  |
+| MySQL       | Remote work |
+| HTML CSS    | Adaptability |
+| Bootstrap   | Autonomy    |
+| Github      | Priority management |
+
 ### Work Experiences
 #### Fictitious project for a b&b in Strasbourg
 * Use of a MVC pattern
@@ -30,7 +39,7 @@ I'm currently looking for an internship or an opportunity !
 
 
 ### Educationnal history
-_2006_ : Baccalauréat English option - Cambridge FCE - **Lycée Freppel**, OBERNAI  
+_2006_ : Baccalauréat English option - **Cambridge FCE** - **Lycée Freppel**, OBERNAI  
 _2013_ : Bac+1 - Aide-soignante diplômée d'Etat - **IFSI Saint Vincent**, STRASBOURG  
 _2020_ : Bac+2 - web developer - **Wild Code School**, STRASBOURG
 
