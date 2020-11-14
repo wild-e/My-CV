@@ -12,7 +12,8 @@ wild.emmanuelle@gmail.com
 
 ### Personal profile
 Hi ! I'm **Emmanuelle**. After 8 years as a caregiver, I decided to take a fresh start. Now, I'm a _Wilder_ on remote bootcamp at Strasbourg's [Wild Code School](https://www.wildcodeschool.com/fr-FR/campus/strasbourg "Strasbourg Wild Code School HomePage"), craving to become a web developper: the sooner the better.
-I'm currently looking for an internship or an opportunity !
+I'm currently looking for an internship or an opportunity ! 
+
 
 ### Skills
 | Hard skills | Soft skills |
@@ -32,11 +33,11 @@ I'm currently looking for an internship or an opportunity !
 * Securing forms
 * Use of a Github workflow
 
-#### Fictitious project : [a CV for Hackerman](https://github.com/wild-e/Project-1--Les-Nous- "Hackerman's CV)
+#### Fictitious project n°1
+[A CV for Hackerman](https://github.com/wild-e/Project-1--Les-Nous- "Hackerman's CV")
 * Pages made out of HTML and CSS
 * Implementation of vanilla JS 
-* Initiation to github
-
+* Initiation to github  
 
 ### Educationnal history
 _2006_ : Baccalauréat English option - **Cambridge FCE** - **Lycée Freppel**, OBERNAI  
